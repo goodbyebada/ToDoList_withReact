@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,react
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,react
+# Created by https://www.toptal.com/developers/gitignore/api/react,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=react,macos
 
 ### macOS ###
 # General
@@ -50,4 +50,4 @@ psd
 thumb
 sketch
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,react
+# End of https://www.toptal.com/developers/gitignore/api/react,macos
