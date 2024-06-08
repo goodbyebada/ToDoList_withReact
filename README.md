@@ -1,6 +1,6 @@
 # ToDoList_withReact
 
-## React,JS를 이용한 ToDoList입니다.
+## React.js를 이용한 ToDoList입니다.
 
 <a href ="https://makeyourtodos.netlify.app/">Come and see TODOLIST</a>
 
