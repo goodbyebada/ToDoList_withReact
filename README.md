@@ -2,7 +2,7 @@
 
 ## React,JS를 이용한 ToDoList입니다.
 
-<a href ="https://655b56cb5b5dda09f1603cd9--bespoke-mousse-f3b2f8.netlify.app/">Come and see TODOLIST</a>
+<a href ="https://makeyourtodos.netlify.app/">Come and see TODOLIST</a>
 
 <img width="800" alt="처음 화면" src="https://github.com/goodbyebada/ToDoList_withReact/assets/90432681/e56725d7-6bfb-47fe-b111-157a92c03a76">
 <p>처음 화면입니다.</p>
